@@ -4,7 +4,7 @@
 In this repository there is a folder Scripts with all the script required for the assignment.
 The first script that should be run is: laoding_data.R, which uploads and creates
 the subset necesary to create the plots.
-The there is a script for each plot: plot1.R, plot2.R, plot3.R, plot4.R.
+There is also is a script for each plot: plot1.R, plot2.R, plot3.R, plot4.R.
 Each script creates the plot on the display and on a png file in the directory Plots.
 
 ## Introduction
